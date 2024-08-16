@@ -1,0 +1,15 @@
+St_Id,St_Fname,St_Lname,St_Address,St_Age,Dept_Id,St_super
+,Ahmed,Hassan    ,Cairo,20,10,
+,Amr,Magdy     ,Cairo,21,10,1
+,Mona,Saleh     ,Cairo,22,10,1
+,Ahmed,Mohamed   ,Alex,23,10,1
+,Khalid,Moahmed   ,Alex,24,10,1
+,Heba,Farouk    ,Mansoura,25,20,
+,Ali,Hussien   ,Cairo,25,20,6
+,Mohamed,Fars      ,Alex,28,20,6
+,Saly,Ahmed     ,Mansoura,24,30,
+,Fady,Ali       ,Alex,24,30,9
+,Marwa,Ahmed     ,Cairo,24,30,9
+,Noha,Omar      ,Cairo,21,40,
+,Said,,,,40,12
+,,Saleh     ,Tanta,30,,

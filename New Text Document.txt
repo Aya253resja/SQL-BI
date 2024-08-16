@@ -1,0 +1,14 @@
+Ahmed,Ahmed,Hassan    ,Cairo,20,10,
+Amr,Amr,Magdy     ,Cairo,21,10,1
+Mona,Mona,Saleh     ,Cairo,22,10,1
+Ahmed,Ahmed,Mohamed   ,Alex,23,10,1
+Khalid,Khalid,Moahmed   ,Alex,24,10,1
+Heba,Heba,Farouk    ,Mansoura,25,20,
+Ali,Ali,Hussien   ,Cairo,25,20,6
+Mohamed,Mohamed,Fars      ,Alex,28,20,6
+Saly,Saly,Ahmed     ,Mansoura,24,30,
+Fady,Fady,Ali       ,Alex,24,30,9
+Marwa,Marwa,Ahmed     ,Cairo,24,30,9
+Noha,Noha,Omar      ,Cairo,21,40,
+Said,Said,,,,40,12
+,,Saleh     ,Tanta,30,,
